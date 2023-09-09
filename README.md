@@ -6,7 +6,7 @@ There are two files:
 
 - The **Final Access File** is where the data was cleaned, joined, and analyzed in Microsoft Access using SQL. 
 
-- The **Final Data Warehouse Excel** file stores the final data and was used to create dashboards and insights. I used this data to construct managerial recommendations overall and specifically for the selected four state governments. 
+- The **Final Data Warehouse** Excel file stores the final data and was used to create dashboards and insights. I used this data to construct managerial recommendations overall and specifically for the selected four state governments. 
 
 # Technologies 
 - SQL
